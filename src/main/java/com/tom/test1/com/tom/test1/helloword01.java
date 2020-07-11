@@ -7,5 +7,6 @@ package com.tom.test1.com.tom.test1;
 public class helloword01 {
     public static void main(String[] args) {
         System.out.println("hello word!!!");
+        System.out.println("hello word!!!");
     }
 }
